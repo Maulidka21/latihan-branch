@@ -1,2 +1,2 @@
-# latihan-branch
-Repo ini cuma untuk latihan dari kelas Belajar Git dengan GitHub di Dicoding
+# Repo untuk latihan Kolaborasi dengan Tim
+Belajar GitHub seru bgt asli ga boong.
