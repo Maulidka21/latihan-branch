@@ -6,4 +6,5 @@
 - gua tambahin baris ke-6 dah.
 - yg ini baris ke-7.
 - klo ini baris ke-8.
-- dan ini baris ke-9 deh.  
+- dan ini baris ke-9 deh.
+- nih baris ke-10nya bang.
